@@ -609,3 +609,46 @@ tr.open .td-long-text{
     padding: 10px;
     background-color: transparent;
 }
+
+/* Allocate role accept page style */
+.section-title{
+    font-size: 18px;
+    line-height: 20px;
+    color: #0C51B0;
+    font-weight: bold;
+}
+
+.allottedroleinfo-wrapper{
+    background: #0C51B00D;
+    border: 1px solid #17478836;
+    border-radius: 10px;
+    padding: 15px 25px;
+}
+
+.allottedroleinfo-content .heading{
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: bold;
+    color: rgba(23, 23, 23, 0.5);
+    margin-bottom: 12px;
+}
+
+.allottedroleinfo-content .subheading{
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: bold;
+    color: #171717;
+    margin-bottom: 0;
+}
+
+.msg-text{
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 500;
+    margin-top: 50px;
+}
+
+.email-text{
+    color: #0C51B0;
+    font-style: italic;
+}
